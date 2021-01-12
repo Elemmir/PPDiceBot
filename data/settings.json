@@ -1,1 +1,1 @@
-{"token":"MTg4Mzc1NzEyNjgyNDc1NTIw.DXigrg.s5vecjZKjTCL2flMji8mwLzSFHw","client":"188375692633833472","tag":"","case":"false","separator":"\\s+"}
+{"token":"MTg4Mzc1NzEyNjgyNDc1NTIw.DXigrg.s5vecjZKjTCL2flMji8mwLzSFHw","client":"188375712682475520","tag":"","case":"false","separator":"\\s+","modules":{"discord.js":["",true],"fstorm":["",true],"jimp":["",true],"libsodium-wrappers":["",false],"opusscript":["",false],"ytdl-core":["",false]}}
